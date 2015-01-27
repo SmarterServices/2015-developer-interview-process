@@ -1,4 +1,6 @@
-# January 2015 Developer Interview Project (DRAFT)
+# ============ WORKING DRAFT ============
+
+# January 2015 Developer Interview Project 
 
 If you have found this repository it is likely because you are going through the interview process.  
 
