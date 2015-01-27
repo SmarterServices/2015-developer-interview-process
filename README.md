@@ -43,11 +43,21 @@ You are free to structure the Node.js code as you wish, however we will be looki
 
 ### Functionality
 
-The application should have at minimum 2 views/pages.  One view will allow the user to view the assessment results, the other should display a single users results.  While not required, you are more than welcome to add any other pages to show off some of your skills - for example a page that outputs statistical information about the user results, etc.
+The application should have at minimum 2 views/pages.  One view will allow the user to view the assessment results, the other should display a single users results.  
 
+#### Going Above and Beyond
+
+While not required, you are more than welcome to add any additional functionallity you wish to further showcase your skills.  For example:
+
+* A page that outputs statistical information about the user results, etc.
+* Unit tests to ensure the application is functioning properly.  This could be done for the REST API and/or the UI.
+* Build process to help deployment, install, etc.
+* ... anything else you come up with.  Feel free to be creative!
 
 ### Installing the Deliverable
 The deliverable should be easily installed by following an updated version of this README document in your repository.  To provide a standard place to add your project specific install notes, we have provided a section below titled "Candidate Install".
+
+
 
 # Connecting to the SmarterMeasure API
 For this project we have created a mock API that mimics the actual SmarterMeasure API.  Here are a few things to note about this API:
