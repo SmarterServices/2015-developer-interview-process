@@ -13,7 +13,7 @@
 
 The base url for connecting is:
 
-```http://mock-api.smartermeasure.com/v4/```
+http://mock-api.smartermeasure.com/v4/
 
 ## Resources
 
