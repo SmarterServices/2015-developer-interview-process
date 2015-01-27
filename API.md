@@ -36,6 +36,7 @@ The results resource will return all the assessment results based on the criteri
 ```
 
 #### Example Response
+
 ```
 	{
 	    "page": 1,
@@ -132,6 +133,7 @@ Get the user details and assessment results for a single user.
 ```
 
 #### Example Response
+
 ```
 	{
 	    "user_id": 5684521,
@@ -213,20 +215,20 @@ The API provides some parameters that cna be used for quick and easy pagination 
 The results of each collection will include some contextual information to aid in paging.  For example, the code below shows that the results are for page 1 of 20 pages with 50 records on each page.  In addition, the paging uri's are also provided for convienence.
 
 ```
-{
-    "page": 1,
-    "num_pages": 20,
-    "page_size": 50,
-    "start": 1,
-    "end": 50,
-    "uri": "/results",
-    "first_page_uri": "/results?page=1",
-    "previous_page_uri": null,
-    "next_page_uri": "/results?page=2",
-    "last_page_uri": "/results?page=20",
-	....
-	
-}    
+	{
+	    "page": 1,
+	    "num_pages": 20,
+	    "page_size": 50,
+	    "start": 1,
+	    "end": 50,
+	    "uri": "/results",
+	    "first_page_uri": "/results?page=1",
+	    "previous_page_uri": null,
+	    "next_page_uri": "/results?page=2",
+	    "last_page_uri": "/results?page=20",
+		....
+		
+	}    
 ```
 
 
