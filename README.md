@@ -1,4 +1,4 @@
-# ============ WORKING DRAFT ============
+# ======= WORKING DRAFT =======
 
 # January 2015 Developer Interview Project 
 
