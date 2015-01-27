@@ -13,12 +13,13 @@ Please keep these things in mind prior to getting started:
 4. We do not want this project to take up too much of your time so we purposfully made it straightforward.  We estimate this project to take between 4-6 hours of time.
 
 # Project Specifications
-For this project you will be constructing simple user interface that will display assessment results with the ability to drill in to look at details.  In addition to the user interface, you will need to create a REST API that will serve as a proxy to the SmarterMeasure MOCK API.  Once this project is completed you will have completed the following:
+For this project you will be constructing simple user interface that will display assessment results with the ability to drill in to look at details.  In addition to the user interface, you will need to create a REST API that will serve as a proxy to the SmarterMeasure Mock API.  At the end of this project you will have completed the following:
 
-* An interface to display assessment results with associated detail view for each student.
-* Added the ability for the user to find a student by their email address.
+* Created an interface to display assessment results with associated detail view for each student.
+* Built a REST API that interacts with the SmarterMeasur Mock API.
+* Using your REST API, added the ability for the user to find a student by their email address - a function that is not currently avaliable in the SmarterMeasure Mock API.
 
-We have provided a visual below to clearify how the final product should be communicating with the SmarterMeasure Mock API.  
+We have provided a visual below to clarify how the final product should be communicating with the SmarterMeasure Mock API.  
 
 1. The user will load the user interface you create
 2. Your user interface will communicate directly with the REST API you create.
@@ -35,10 +36,10 @@ Your User Interface -----> | Your REST API | -----> | SmarterMeasure MOCK API  |
 ## Requirements
 
 ### User Interface
-The user interface should use bootstrap for the styling as well as a front end framework such as AngularJS, ReactJS, JQueryUI, etc.  Please choose the framework you are most comfortable with and would choose if you were building a larger scale web application.
+The user interface should use [Bootstrap](http://getbootstrap.com/) for the styling as well as a front end framework such as [AngularJS](https://angularjs.org/), [ReactJS](http://facebook.github.io/react/), [JQueryUI](http://jqueryui.com/), etc.  Please choose the framework you are most comfortable with and would choose if you were building a larger scale web application.
 
 ### Node.js Code
-You are free to structure the Node.js code as you wish, however we will be looking for a solid understanding of architecting a node application.  You are welcome to choose a REST API framework if you wish and use any npm modules you feel are required to complete the task.
+You are free to structure the Node.js code as you wish, however we will be looking for a solid understanding of architecting a node application.  You are welcome to choose a [REST API framework](https://www.npmjs.com/search?q=rest+framework) if you wish and use any npm modules you feel are required to complete the task.
 
 ### Functionality
 
