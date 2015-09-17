@@ -38,14 +38,12 @@ Your User Interface -----> | Your REST API | -----> | SmarterMeasure MOCK API  |
 
 ## Sample Login Credentials
 
-You may use the following credentials if you would like to complete the SmarterMeasure assessment so you can understand the context.
+You may use the following credentials if you would like to complete the SmarterMeasure assessment so you can understand the context.  This is not required to complete the project, but might just help you to understand our current product a bit more.
 
 1. Visit [http://decade.smartermeasure.com](http://decade.smartermeasure.com)
 2. Click the button that says "Login as First Time User"
 3. Choose the username "Development Project"
 4. Enter the password "demo"
-
-You will be able to complete the assessment and get your results.
 
 ## Requirements
 
@@ -55,7 +53,7 @@ There are really two parts to the project, creating the User Interface and the R
 The user interface should use [Bootstrap](http://getbootstrap.com/) for the styling as well as a front end framework such as [AngularJS](https://angularjs.org/), [ReactJS](http://facebook.github.io/react/), [JQueryUI](http://jqueryui.com/), etc.  Please choose the framework you are most comfortable with and would choose if you were building a larger scale web application.
 
 ### REST API
-The API should be built using Node.js, however the structure the application is your decision.  The main thing we will be looking for is a solid understanding of architecting a node application.  You are welcome to choose a [REST API framework](https://www.npmjs.com/search?q=rest+framework) if you wish and use any npm modules you feel are required to complete the task.
+The API should be built using Node.js, however the structure the application is your decision.  The main thing we will be looking for is a solid understanding of architecting a node application.  You are welcome to choose a [REST API framework](https://www.npmjs.com/search?q=rest+framework) if you wish and use any npm modules you feel are required to complete the task.  We have been using [hapi](http://hapijs.com) in some recent projects so that might be a good one to use.
 
 ### Functionality
 
