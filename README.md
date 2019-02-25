@@ -80,7 +80,7 @@ For this project we have created a mock API that mimics the actual SmarterMeasur
 * To keep things simple, there is no authentication required.
 * All the data that is returned is mock/dummy data.
 
-The documentation for the SmarterMeasure API is located at [https://github.com/SmarterServices/2015-developer-interview-project/blob/master/API.md](https://github.com/SmarterServices/2015-developer-interview-project/blob/master/API.md)
+The documentation for the SmarterMeasure API is located at [https://github.com/SmarterServices/developer-interview-project/blob/master/API.md](https://github.com/SmarterServices/developer-interview-project/blob/master/API.md)
 
 
 # Candidate Install
