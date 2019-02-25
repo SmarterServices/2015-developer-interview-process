@@ -50,10 +50,10 @@ You may use the following credentials if you would like to complete the SmarterM
 There are really two parts to the project, creating the User Interface and the REST API that the interface will interact with.  The requirements for each are as follows:
 
 ### User Interface
-The user interface should use [Bootstrap](http://getbootstrap.com/) for the styling as well as a front end framework such as [AngularJS](https://angularjs.org/), [ReactJS](http://facebook.github.io/react/), [JQueryUI](http://jqueryui.com/), etc.  Please choose the framework you are most comfortable with and would choose if you were building a larger scale web application.
+The user interface should use [Bootstrap](http://getbootstrap.com/) for the styling as well as [ReactJS](http://facebook.github.io/react/).
 
 ### REST API
-The API should be built using Node.js, however the structure the application is your decision.  The main thing we will be looking for is a solid understanding of architecting a node application.  You are welcome to choose a [REST API framework](https://www.npmjs.com/search?q=rest+framework) if you wish and use any npm modules you feel are required to complete the task.  We have been using [hapi](http://hapijs.com) in some recent projects so that might be a good one to use.
+The API should be built using Node.js, however the structure the application is your decision.  The main thing we will be looking for is a solid understanding of architecting a node application.  You are welcome to choose a [REST API framework](https://www.npmjs.com/search?q=rest+framework) if you wish and use any npm modules you feel are required to complete the task.  We use [hapi](http://hapijs.com) in most projects so that might be a good one to use.
 
 ### Functionality
 
