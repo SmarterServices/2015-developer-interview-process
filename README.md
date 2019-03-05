@@ -9,8 +9,8 @@ Please keep these things in mind prior to getting started:
 
 1. To ensure your work cannot easily be copied by other candidates, please do not fork this repository.
 2. If you are unsure how to proceed with this repository there is a high chance you do not meet the minimum requirements for this job.  
-3. If you make it to the next stage of the interview process, you will be asked to provide a 15-20 presenation of the work completed on this project.  Please keep this in mind as you are putting together your solution.
-4. We do not want this project to take up too much of your time so we purposfully made it straightforward.  We estimate this project to take between 4-6 hours of time.
+3. If you make it to the next stage of the interview process, you will be asked to provide a 15-20 minute presenation of the work completed on this project.  Please keep this in mind as you are putting together your solution.
+4. We do not want this project to take up too much of your time so we purposfully made it straightforward.  We estimate this project to take between 2-3 hours of time.
 
 # About the Project
 
